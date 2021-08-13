@@ -1,1 +1,1 @@
-# Detecci-n_uso_de_mascarilla
+# Deteccion_uso_de_mascarilla
