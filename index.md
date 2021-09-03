@@ -1,5 +1,3 @@
-## Bienvenido al proyecto de detección de mascarilla 
-
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
@@ -59,3 +57,4 @@
         }
     }
 </script>
+
